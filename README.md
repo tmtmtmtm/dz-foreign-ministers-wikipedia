@@ -71,6 +71,8 @@ via
 Step 8: Refresh the Tracking Page
 =================================
 
-New version:
+New version: https://www.wikidata.org/w/index.php?title=Talk:Q26932328&oldid=1233889056
+
+Still has a few issues to resolve.
 
 
