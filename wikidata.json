@@ -65,23 +65,6 @@
   },
   {
     "item": {
-      "value": "Q57308",
-      "label": "Abdelaziz Bouteflika"
-    },
-    "replaces": {
-      "value": "Q2386441",
-      "label": "Mohamed Khemisti"
-    },
-    "replacedBy": {
-      "value": "Q510018",
-      "label": "Mohammed Seddik Ben Yahia"
-    },
-    "statement": "Q57308$8201A0EA-DAA5-4076-A147-AFBF7B867627",
-    "start": "1963-01-01T00:00:00Z",
-    "end": "1979-01-01T00:00:00Z"
-  },
-  {
-    "item": {
       "value": "Q179908",
       "label": "Ahmed Ben Bella"
     },
@@ -96,6 +79,23 @@
     "statement": "Q179908$912385C5-D461-43B0-A5C0-D08EBAA1E2B9",
     "start": "1963-04-11T00:00:00Z",
     "end": "1963-09-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q57308",
+      "label": "Abdelaziz Bouteflika"
+    },
+    "replaces": {
+      "value": "Q2386441",
+      "label": "Mohamed Khemisti"
+    },
+    "replacedBy": {
+      "value": "Q510018",
+      "label": "Mohammed Seddik Ben Yahia"
+    },
+    "statement": "Q57308$8201A0EA-DAA5-4076-A147-AFBF7B867627",
+    "start": "1963-09-04T00:00:00Z",
+    "end": "1979-03-08T00:00:00Z"
   },
   {
     "item": {
@@ -162,8 +162,8 @@
       "label": "Lakhdar Brahimi"
     },
     "statement": "Q327010$F46C954D-8B09-4195-92F1-AE146D852D4E",
-    "start": "1989-01-01T00:00:00Z",
-    "end": "1991-01-01T00:00:00Z"
+    "start": "1989-09-09T00:00:00Z",
+    "end": "1991-06-05T00:00:00Z"
   },
   {
     "item": {
@@ -196,8 +196,8 @@
       "label": "Mohamed Salah Dembri"
     },
     "statement": "Q1938509$5da7c610-418a-1a41-0b38-9bdc1cff134d",
-    "start": "1993-01-01T00:00:00Z",
-    "end": "1993-01-01T00:00:00Z"
+    "start": "1993-02-03T00:00:00Z",
+    "end": "1993-08-21T00:00:00Z"
   },
   {
     "item": {
@@ -213,8 +213,8 @@
       "label": "Ahmed Attaf"
     },
     "statement": "Q3318782$A79FBC52-F86B-488B-A833-F0D629AE4C32",
-    "start": "1993-09-04T00:00:00Z",
-    "end": "1995-12-31T00:00:00Z"
+    "start": "1993-08-21T00:00:00Z",
+    "end": "1995-11-27T00:00:00Z"
   },
   {
     "item": {
@@ -316,7 +316,7 @@
     },
     "statement": "Q58145$1F4CCA5A-EDC5-4771-AC00-F3A404D18B57",
     "start": "2007-06-04T00:00:00Z",
-    "end": "2013-09-04T00:00:00Z"
+    "end": "2013-09-11T00:00:00Z"
   },
   {
     "item": {
