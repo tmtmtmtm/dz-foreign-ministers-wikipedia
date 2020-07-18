@@ -1,0 +1,193 @@
+[
+  {
+    "item": {
+      "value": "Q206433",
+      "label": "Krim Belkacem"
+    },
+    "statement": "Q206433$814AC810-9006-47FD-AAA6-3280307E5C89"
+  },
+  {
+    "item": {
+      "value": "Q466995",
+      "label": "Lakhdar Brahimi"
+    },
+    "statement": "Q466995$5846D1CE-10F8-42D2-BCAE-CB43ECFE1AAE"
+  },
+  {
+    "item": {
+      "value": "Q2386441",
+      "label": "Mohamed Khemisti"
+    },
+    "statement": "Q2386441$0ACECCFD-1CD5-47B1-8DBC-F134B9A3E425"
+  },
+  {
+    "item": {
+      "value": "Q307857",
+      "label": "Abdelaziz Belkhadem"
+    },
+    "statement": "Q307857$2A349980-90F2-47BA-9084-828B0F7881E0"
+  },
+  {
+    "item": {
+      "value": "Q1398046",
+      "label": "Mohammed Bedjaoui"
+    },
+    "statement": "Q1398046$FE13EBF4-7878-4F43-958F-A4C6117EBC38"
+  },
+  {
+    "item": {
+      "value": "Q3474760",
+      "label": "Saad Dahlab"
+    },
+    "statement": "Q3474760$89023171-265F-4C27-863F-C2DB3B20381C"
+  },
+  {
+    "item": {
+      "value": "Q62635974",
+      "label": "Sabri Boukadoum"
+    },
+    "statement": "Q62635974$29fc8fe1-ed40-4b1d-8c14-78a527d78f9e"
+  },
+  {
+    "item": {
+      "value": "Q401156",
+      "label": "Ahmed Attaf"
+    },
+    "statement": "Q401156$ED8C94F5-A2AF-4118-BB4D-8F9605A9489B"
+  },
+  {
+    "item": {
+      "value": "Q3572799",
+      "label": "Youcef Yousfi"
+    },
+    "statement": "Q3572799$4CA3769B-C398-4135-A4DB-6C9080AC4326"
+  },
+  {
+    "item": {
+      "value": "Q3318654",
+      "label": "Mohamed Lamine Debaghine"
+    },
+    "statement": "Q3318654$6C4024F7-DA72-4911-A8AC-0ED5184AC6D6"
+  },
+  {
+    "item": {
+      "value": "Q510018",
+      "label": "Mohammed Seddik Ben Yahia"
+    },
+    "statement": "Q510018$30D39EDF-D50C-4BBC-A3BF-06B1AB3917C7"
+  },
+  {
+    "item": {
+      "value": "Q2911920",
+      "label": "Boualem Bessaïh"
+    },
+    "statement": "Q2911920$2561FDBA-99FC-495B-8795-86335906A95F"
+  },
+  {
+    "item": {
+      "value": "Q57308",
+      "label": "Abdelaziz Bouteflika"
+    },
+    "replaces": {
+      "value": "Q2386441",
+      "label": "Mohamed Khemisti"
+    },
+    "replacedBy": {
+      "value": "Q510018",
+      "label": "Mohammed Seddik Ben Yahia"
+    },
+    "statement": "Q57308$8201A0EA-DAA5-4076-A147-AFBF7B867627",
+    "start": "1963-01-01T00:00:00Z",
+    "end": "1979-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2827669",
+      "label": "Ahmed Taleb Ibrahimi"
+    },
+    "replaces": {
+      "value": "Q510018",
+      "label": "Mohammed Seddik Ben Yahia"
+    },
+    "replacedBy": {
+      "value": "Q2911920",
+      "label": "Boualem Bessaïh"
+    },
+    "statement": "Q2827669$A5BE8DED-1438-4F11-BD8C-1D7C0B73C6FC",
+    "start": "1982-05-08T00:00:00Z",
+    "end": "1988-11-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q327010",
+      "label": "Sid Ahmed Ghozali"
+    },
+    "statement": "Q327010$F46C954D-8B09-4195-92F1-AE146D852D4E",
+    "start": "1989-01-01T00:00:00Z",
+    "end": "1991-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1938509",
+      "label": "Redha Malek"
+    },
+    "statement": "Q1938509$5da7c610-418a-1a41-0b38-9bdc1cff134d",
+    "start": "1993-01-01T00:00:00Z",
+    "end": "1993-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3318782",
+      "label": "Mohamed Salah Dembri"
+    },
+    "replaces": {
+      "value": "Q1938509",
+      "label": "Redha Malek"
+    },
+    "replacedBy": {
+      "value": "Q401156",
+      "label": "Ahmed Attaf"
+    },
+    "statement": "Q3318782$A79FBC52-F86B-488B-A833-F0D629AE4C32",
+    "start": "1993-09-04T00:00:00Z",
+    "end": "1995-12-31T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "replaces": {
+      "value": "Q1398046",
+      "label": "Mohammed Bedjaoui"
+    },
+    "replacedBy": {
+      "value": "Q2130427",
+      "label": "Ramtane Lamamra"
+    },
+    "statement": "Q58145$1F4CCA5A-EDC5-4771-AC00-F3A404D18B57",
+    "start": "2007-06-04T00:00:00Z",
+    "end": "2013-09-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2130427",
+      "label": "Ramtane Lamamra"
+    },
+    "replaces": {
+      "value": "Q58145",
+      "label": "Mourad Medelci"
+    },
+    "statement": "Q2130427$e83b8557-45a0-b742-a426-194cd6ce4d2f",
+    "start": "2013-09-11T00:00:00Z",
+    "end": "2017-05-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2130427",
+      "label": "Ramtane Lamamra"
+    },
+    "statement": "Q2130427$4E1EAD2F-0F02-479B-A70F-058CD38CC40B",
+    "start": "2019-03-12T00:00:00Z"
+  }
+]
